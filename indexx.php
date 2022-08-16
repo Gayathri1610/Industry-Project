@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="container">
-    	<h2 class="text-center mt-4 mb-4">Convert Excel to HTML Table using JavaScript</h2>
+    	<h2 class="text-center mt-4 mb-4">Upload an Excel and  view  as a table</h2>
     	<div class="card">
     		<div class="card-header"><b>Select Excel File</b></div>
     		<div class="card-body">
